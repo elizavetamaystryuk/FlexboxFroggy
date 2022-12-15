@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexbox Froggy</title>
+</head>
+<body>
+    <b><h1 align="center">Опис враження від ігор</h1>
+    </b> 
+    <p>Flexbox Froggy займає перше місце в моєму рейтингу із перелічених ігр.Особисто мені, вона сподобалась найбільше. Має зрозумілі правила. Гарний дизайн та зручне використання. Гра складається з 24 рівнів</p>
+  <img src="https://pbs.twimg.com/media/Ey6F8EdWgAA5DSL?format=jpg&name=4096x4096" alt>
+    <p>Flexbox Defense займає друге місце в моєму рейтингу із перелічених ігр. Також має цікавий дизайн, але не так зрозумілі правила як у "Flexbox Froggy". Гра складається з 12 рівнів</p>
+  <img src="https://templatki.com/media/k2/items/cache/5806ed5bd1f64d52ce756eaccc7ac637_XL.jpg" alt>
+    <p>CSS Diner має не зрозумілі правила, більш складна по складності, як на мене, ніж гра "Flexbox Froggy". Звичайний дизайн. Гра складається з 32 рівнів</p>
+  <img src="https://i.ytimg.com/vi/8msJhBa9bX8/maxresdefault.jpg" alt>
+</body>
+</html>
